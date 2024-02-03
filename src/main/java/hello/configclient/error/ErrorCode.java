@@ -3,7 +3,6 @@ package hello.configclient.error;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
-import org.springframework.boot.SpringApplication;
 
 @Getter
 @Setter
